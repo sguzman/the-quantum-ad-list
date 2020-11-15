@@ -69,4 +69,6 @@ Anyway, no more ads on YouTube!
 
 ***
 
-<a href="https://vivaldi.com?pk_campaign=Banners&pk_kwd=300x250"><img src="https://vivaldi.com/buttons/files/vivaldi_browser_sm.png" alt="Get Vivaldi Browser" style="border:0"></a> <a href="https://manjaro.org"><img src="https://manjaro.org/img/logo.svg" alt="Get Manjaro Linux" style="border:0"></a>
+<a href="https://vivaldi.com?pk_campaign=Banners&pk_kwd=260x80"><img src="https://vivaldi.com/buttons/files/260x80.png" alt="Get Vivaldi Browser" style="border:0"></a>
+
+<a href="https://manjaro.org"><img src="https://manjaro.org/img/logo.svg" alt="Get Manjaro Linux" style="border:0"></a>
