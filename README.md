@@ -54,7 +54,10 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 6. Repeat step **4** & **5** with all six of them.
 7. Restart Vivaldi, and voilà!
 
-
+## Stay in touch!
+You may join our group chat on MeWe!
+#### Join TechnoChat!
+https://mewe.com/join/TechnoChat
 
 
 Feel free to like, comment and subscri-
