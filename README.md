@@ -9,7 +9,9 @@ It is a list containing over 1500000 domains used by **ads**, **trackers**, **mi
 It is specifically designed for **hosts** file, but can also be used with ad-blockers with the ad-blocker "optimized" variant.
 
 #### Why?
-This list has some domains that others don't have!
+Hm, good question. Pass-
+
+Well, this list has some domains that others don't have!
 
 #### Is it safe?
 It is completely safe. 
