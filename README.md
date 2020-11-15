@@ -55,8 +55,8 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 7. Restart Vivaldi, and voilà!
 
 ## Stay in touch!
-You may join our group chat on MeWe!
 #### Join TechnoChat!
+You may join our group chat on MeWe!
 https://mewe.com/join/TechnoChat
 
 
