@@ -58,9 +58,12 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 
 ## Stay in touch!
 #### Join TechnoChat!
-You may join our group chat on MeWe!
+![image.png](./image.png)
+
 https://mewe.com/join/TechnoChat
 
+
+***
 
 Feel free to like, comment and subscri-
 oh wait. That's not YouTube...
