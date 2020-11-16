@@ -4,7 +4,7 @@
 ## About The Quantum Ad-List
 #### What the heck is that?
 Made an AI to track and analyse every websites, a bit like a web crawler, to find and identify ads.
-It is a list containing over 1600000 domains used by **ads**, **trackers**, **miners**, **malwares**, and much more! 
+It is a list containing over 1300000 domains used by **ads**, **trackers**, **miners**, **malwares**, and much more! 
 
 It is specifically designed for **hosts** file, but can also be used with ad-blockers with the ad-blocker "optimized" variant.
 
