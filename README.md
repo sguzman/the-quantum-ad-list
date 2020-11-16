@@ -23,14 +23,10 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 ### For your **hosts** file:
 ***This is the recommended way to use The Quantum Ad-List.***
 #### Linux:
-1. You may **download** the file located in the `For hosts file` of this repository.
-2. Open the text file named `The_Quantum_Ad-List.txt` and **copy** the entire list.
-    - *Keep in mind that it may freeze a few seconds on lower end hardware. It is normal.*
-3. Launch a terminal, then run `sudo EDITOR /etc/hosts` 
-    - *You may replace* ***EDITOR*** with your prefered editor.
-        - *Can be* *`nano`*, *`vi`*, *`vim`*, *`gedit` for GUI*, *etc...*
-4. **Paste** the list under existing content of the hosts file, then save it!
-5. You may then reboot.
+1. You may **download** the [installer here](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Install-The_Quantum_Ad-List.sh?inline=false)
+2. Execute a terminal, and navigate toward the directory where `Install-The_Quantum_Ad-List.sh` is located.
+3. You may then input `sudo ./Install-The_Quantum_Ad-List.sh` , then press <kbd>Enter</kbd>
+4. Voilà!
 
 #### Windows:
 1. You may **download** the file located in the `For hosts file` of this repository.
@@ -42,8 +38,7 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
     - *Might have to change the file type to "All files".*
 6. **Paste** the list under existing content of the hosts file, then save it!
 7. You may then reboot.
-
-##### Voilà!
+8. Voilà!
 
 ### For Ad-blockers:
 *Please keep in mind it is not meant to be used that way. Use with caution.*
