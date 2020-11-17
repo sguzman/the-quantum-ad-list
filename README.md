@@ -9,7 +9,7 @@ It is a list containing over 1300000 domains used by **ads**, **trackers**, **mi
 It is specifically designed for **hosts** file, but can also be used with ad-blockers with the ad-blocker "optimized" variant.
 
 #### Why?
-Hm, good question. Pass-
+**To block ads!!**
 
 Well, this list has some domains that others don't have!
 
