@@ -1,4 +1,4 @@
-# Nuked YouTube ads: 33272
+#Nuked Youtube ads: 32838
 0.0.0.0 ads.youtube.com
 0.0.0.0 r1---sls.googlevideo.com
 0.0.0.0 r1---sn--0opoxu-2cjy.googlevideo.com
@@ -32833,5 +32833,7 @@
 0.0.0.0 r9.sn-vgqsened.googlevideo.com
 0.0.0.0 r9.sn-vgqsenee.googlevideo.com
 0.0.0.0 r9.sn-vgqsenel.googlevideo.com
+0.0.0.0 r9.sn-vgqsener.googlevideo.com
 0.0.0.0 r9.sn-vgqsenes.googlevideo.com
 0.0.0.0 r9.sn-vgqsenez.googlevideo.com
+0.0.0.0 the_quantum_youtube-ads-list.txt
