@@ -2,11 +2,23 @@
 *This is the greatest Ad-list of all time*
 
 ## About The Quantum Ad-List
+#### Maintainers
+This project's maintainers are The_Quantum_Alpha and Pinkisjustnumbers.
+Founded by The_Quantum_Alpha
+
 #### What the heck is that?
 Made an AI to track and analyse every websites, a bit like a web crawler, to find and identify ads.
 It is a list containing over 1300000 domains used by **ads**, **trackers**, **miners**, **malwares**, and much more! 
 
 It is specifically designed for **hosts** file, but can also be used with ad-blockers with the ad-blocker "optimized" variant.
+
+We were testing an AI that could show some basic emotions about internet content, and turns out it was very precise at getting “annoyed” by ads and “unsolicited” third party connections…
+
+From that, I forked our own project and tweaked it in a specific way to basically only focus on ads, trackers, etc. and act like a web crawler, turns out to be very effective!
+
+Since I am more old school, the HOSTS file is still my prefered way to deal with name resolutions, thus allocating only a small amount of time for this project as it is not a priority, I decided to go for one method that could be used for all.
+
+The lists can be used on almost anything, but I only show one way due to reasons mentioned above.
 
 #### Why?
 **To block ads!!**
