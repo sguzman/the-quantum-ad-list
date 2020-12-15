@@ -58,4 +58,4 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 
 ***
 
-<a href="https://vivaldi.com?pk_campaign=Banners&pk_kwd=260x80"><img src="https://vivaldi.com/buttons/files/260x80.png" alt="Get Vivaldi Browser" style="border:0"></a>
+<a href="https://vivaldi.com?pk_campaign=Banners&pk_kwd=728x90"><img src="https://vivaldi.com/buttons/files/vivaldi_browser_lg.png" alt="Get Vivaldi Browser" style="border:0"></a>
