@@ -54,16 +54,9 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 #### Join TechnoChat!
 Join us on MeWe today!
 
+<a href="https://mewe.com/join/TechnoChat"><img src="https://img.mewe.com/api/v2/group/5eab27fa87cee22e5cad5eab/public-image/5fd8115580c0a747fe56928b/1600x1600/img" alt="Join TechnoChat" style="border:0"></a>
+
 # https://mewe.com/join/TechnoChat
-
-<a href="https://mewe.com/join/TechnoChat"><img src="https://imgur.com/a/0o9SjTz" alt="Join TechnoChat" style="border:0"></a>
-
-***
-
-Feel free to like, comment and subscri-
-oh wait. That's not YouTube...
-
-Anyway, no more ads on YouTube!
 
 ***
 
