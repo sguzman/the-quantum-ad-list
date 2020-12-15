@@ -52,11 +52,9 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 
 ## Stay in touch!
 #### Join TechnoChat!
-Join us on MeWe today!
+[Join us on MeWe today!](https://mewe.com/join/TechnoChat)
 
 <a href="https://mewe.com/join/TechnoChat"><img src="https://img.mewe.com/api/v2/group/5eab27fa87cee22e5cad5eab/public-image/5fd8115580c0a747fe56928b/1600x1600/img" alt="Join TechnoChat" style="border:0"></a>
-
-# https://mewe.com/join/TechnoChat
 
 ***
 
