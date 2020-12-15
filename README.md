@@ -54,7 +54,7 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 #### Join TechnoChat!
 Join us on MeWe today!
 
-https://mewe.com/join/TechnoChat
+# https://mewe.com/join/TechnoChat
 
 
 ***
@@ -67,5 +67,3 @@ Anyway, no more ads on YouTube!
 ***
 
 <a href="https://vivaldi.com?pk_campaign=Banners&pk_kwd=260x80"><img src="https://vivaldi.com/buttons/files/260x80.png" alt="Get Vivaldi Browser" style="border:0"></a>
-
-<a href="https://manjaro.org"><img src="https://manjaro.org/img/logo.svg" alt="Get Manjaro Linux" style="border:0"></a>
