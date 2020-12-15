@@ -56,6 +56,7 @@ Join us on MeWe today!
 
 # https://mewe.com/join/TechnoChat
 
+<a href="https://mewe.com/join/TechnoChat"><img src="https://imgur.com/a/0o9SjTz" alt="Join TechnoChat" style="border:0"></a>
 
 ***
 
