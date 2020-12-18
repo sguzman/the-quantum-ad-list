@@ -1,3 +1,5 @@
+*Version Française ci-dessous*
+
 # Howdy! - The Quantum Ad-List
 *This is the greatest Ad-list of all time*
 
@@ -53,6 +55,68 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 ## Stay in touch!
 #### Join TechnoChat!
 [Join us on MeWe today!](https://mewe.com/join/TechnoChat)
+
+***
+***
+***
+
+Bin kin, en Français à c-t-heure..
+
+# Howdy ! - La liste de publicité de Quantum
+*C'est la meilleure liste de publicité de tous les temps*
+
+## À propos de la liste de publicité de Quantum
+#### Mainteneurs
+Les responsables de ce projet sont The_Quantum_Alpha et Pinkisjustnumbers.
+Fondé par The_Quantum_Alpha
+
+#### Qu'est-ce que c'est que ça ?
+J'ai fait une IA pour suivre et analyser tous les sites web, un peu comme un crawler, pour trouver et identifier les publicités.
+C'est une liste contenant plus de 1300000 domaines utilisés par les **ads**, **trackers**, **miners**, **malwares**, et bien plus encore ! 
+
+Elle est spécialement conçue pour les **hosts**, mais peut également être utilisée avec les ad-blockers avec la variante "optimisée" de l'ad-blocker.
+
+Nous testions une IA qui pouvait montrer quelques émotions de base sur le contenu d'Internet, et il s'est avéré qu'elle était très précise pour se faire "embêter" par les publicités et les connexions "non sollicitées" de tiers...
+
+À partir de là, j'ai bifurqué notre propre projet et je l'ai modifié de manière spécifique pour me concentrer uniquement sur les publicités, les trackers, etc. et agir comme un crawler du web, s'avère très efficace !
+
+Comme je suis plus vieux jeu, le fichier HOSTS est toujours ma méthode préférée pour traiter les résolutions de noms, ce qui ne laisse que peu de temps pour ce projet car il n'est pas prioritaire, j'ai décidé d'opter pour une méthode qui pourrait être utilisée pour tous.
+
+Les listes peuvent être utilisées pour presque tout, mais je ne montre qu'une seule méthode pour les raisons mentionnées ci-dessus.
+
+#### Pourquoi ?
+**Pour bloquer les annonces!!**
+
+Eh bien, cette liste a des domaines que d'autres n'ont pas !
+
+#### Est-ce que c'est sûr ?
+C'est complètement sûr. 
+
+Il n'envoie aucune de vos données, en fait il les protège, car les traqueurs et les logiciels malveillants ne peuvent pas entrer dans votre appareil. 
+
+
+## Installation
+### Pour votre fichier **hôtes** :
+***C'est la façon recommandée d'utiliser The Quantum Ad-List.***
+#### Linux :
+1. Vous pouvez **télécharger** le [installateur ici] (https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Quantum_AdList?inline=false)
+2. Exécutez un terminal, et naviguez vers le répertoire où se trouve `Install-The_Quantum_Ad-List.sh`.
+3. Vous pouvez alors saisir `sudo./Install-The_Quantum_Ad-List.sh` , puis appuyer sur <kbd>Enter</kbd>
+4. Voilà !
+
+### Pour les bloqueurs de publicité :
+*S'il vous plaît, gardez à l'esprit qu'il n'est pas destiné à être utilisé de cette façon. A utiliser avec prudence.*
+#### Navigateur Vivaldi :
+1. Ouvrez les paramètres du navigateur.
+2. Allez à la section "Vie privée", puis faites défiler la page vers le bas pour voir "Bloquer les traqueurs et les publicités" ou autre.
+3. Appuyez sur le bouton <kbd>Gèrer les sources</kbd>, puis faites défiler la page vers le bas pour voir "Sources de blocage des publicités" ou autre.
+4. Appuyez sur le bouton <kbd>+</kbd>, un petit popup devrait apparaître en haut au milieu de Vivaldi. 
+5. **Collez** le lien des listes que vous voulez utiliser.
+7. Redémarrez Vivaldi, et voilà !
+
+## Restez en contact !
+#### Rejoignez le TechnoChat !
+[Rejoignez-nous sur MeWe aujourd'hui !](https://mewe.com/join/TechnoChat)
 
 <a href="https://mewe.com/join/TechnoChat"><img src="https://img.mewe.com/api/v2/group/5eab27fa87cee22e5cad5eab/public-image/5fd8115580c0a747fe56928b/1600x1600/img" alt="Join TechnoChat" style="border:0"></a>
 
