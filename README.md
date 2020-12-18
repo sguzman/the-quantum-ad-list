@@ -99,7 +99,7 @@ Il n'envoie aucune de vos données, en fait il les protège, car les traqueurs e
 ### Pour votre fichier **hôtes** :
 ***C'est la façon recommandée d'utiliser The Quantum Ad-List.***
 #### Linux :
-1. Vous pouvez **télécharger** le [installateur ici] (https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Quantum_AdList?inline=false)
+1. Vous pouvez **télécharger** l'[installateur ici](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Quantum_AdList?inline=false)
 2. Exécutez un terminal, et naviguez vers le répertoire où se trouve `Install-The_Quantum_Ad-List.sh`.
 3. Vous pouvez alors saisir `sudo./Install-The_Quantum_Ad-List.sh` , puis appuyer sur <kbd>Enter</kbd>
 4. Voilà !
