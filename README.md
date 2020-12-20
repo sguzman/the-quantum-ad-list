@@ -38,8 +38,8 @@ It does not send any of your datas, indeed it protects them, as trackers and mal
 ***This is the recommended way to use The Quantum Ad-List.***
 #### Linux:
 1. You may **download** the [installer here](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Quantum_AdList?inline=false)
-2. Execute a terminal, and navigate toward the directory where `Install-The_Quantum_Ad-List.sh` is located.
-3. You may then input `sudo ./Install-The_Quantum_Ad-List.sh` , then press <kbd>Enter</kbd>
+2. Execute a terminal, and navigate toward the directory where `quantum_adlist` is located.
+3. You may then input `sudo ./quantum_adlist` , then press <kbd>Enter</kbd>
 4. Voilà!
 
 ### For Ad-blockers:
