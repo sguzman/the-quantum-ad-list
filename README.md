@@ -100,8 +100,8 @@ Il n'envoie aucune de vos données, en fait il les protège, car les traqueurs e
 ***C'est la façon recommandée d'utiliser The Quantum Ad-List.***
 #### Linux :
 1. Vous pouvez **télécharger** l'[installateur ici](https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Quantum_AdList?inline=false)
-2. Exécutez un terminal, et naviguez vers le répertoire où se trouve `quantum_adlist.sh`.
-3. Vous pouvez alors saisir `sudo./quantum_adlist.sh` , puis appuyer sur <kbd>Enter</kbd>
+2. Exécutez un terminal, et naviguez vers le répertoire où se trouve `quantum_adlist`.
+3. Vous pouvez alors saisir `sudo./quantum_adlist` , puis appuyer sur <kbd>Enter</kbd>
 4. Voilà !
 
 ### Pour les bloqueurs de publicité :
